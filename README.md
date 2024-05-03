@@ -1,31 +1,34 @@
 # Software Engineer
 
 ## Education
-- HS Diploma | Cherry Creek High School (_May 2020_)								       		
-- B.S., Computer Science | University of Boulder Colorado (_Spring 2024_)	 			        		
+- HS Diploma | Cherry Creek High School (_May 2021_)								       		
+- B.S., Computer Science | University of Boulder Colorado (_Spring 2025_)	 			        		
 
 ## Work Experience
-**Progressive Insurance (_June 2023 - Present_)**
-- Successfully introduced standardized logging practices into critical projects, enhancing system observability and accelerating issue detection
-- Collaborated effectively with mentors and team members, engaging in collaborative debugging sessions and contributing to enhanced codebase quality and customer experience
-- Led a team of seven developers in creating a retrieval-augmented generational chatbot program using OpenAI’s API and LangChain for efficient access to the company's vast collection of documentation
+**Micro Center (_June 2021 - May 2022_)**
+Respond to and resolve user-reported IT issues promptly and efficiently.
+• Troubleshoot and diagnose hardware/software issues as well as coordinating with vendors for repairs or replacements.
+• Maintain an in-depth understanding of computer hardware, software, operating systems, and accessories to provide informed recommendations.
+• Collaborate with other IT team members and departments to implement technology solutions that meet business needs to improve efficiency and productivity
 
 ## Projects
-### DocsBot
+### Fantasy Sports Tracker Application
 
-Developed a specialized chatbot leveraging Langchain and the OpenAI API to process and interpret designated documentation. This innovative solution efficiently responds to user inquiries by extracting relevant information from the provided documentation.
+• Built a fantasy sports tracker program in C++ with statistics showing players their team and status for
+the season.
+• Created a database using PostgreSQL to build a software development system while utilizing multiple APIs to allow for real-time player statistics and injury updates using Postman.
+• Implemented Random Forests as a machine learning predictive model to assist players with lineup choices and optimize draft/trade decisions.
+• Leveraged Data Structures for league creations and modifications for an engaging competitive environment.
+• Integrated Unit testing to provide code security and data integrity.
+• Showcased developmental skills using C++, API integration, Front-end, and database management for Back-end.
 
-### CU Spots
-[Git Repo](https://github.com/SaragamG/CU-Spots.git)
-
-The purpose of this application is to rate various places on campus. This will give people information on the best places to do anything at CU Boulder. Users will be able to see places people have rated on a map and choose to visit them. Users can also rate new spots they have found or existing spots.
-
-### Course Finder
+### CONTACT MI HTML, EJS, JS, CSS
 [Git Repo](https://github.com/SaragamG/Course-Finder.git)
 
-Reads a list of courses from a data file and inserts them into two separate hash tables. Utilizing the Open Addressing collision resolution scheme and the Chaining collision resolution scheme, you can search the hash tables for a specific course number or display all of the courses. A list of courses taught by each professor will be stored using a binary search tree data structure.
-
-### Dungeons and Dragons
-[Git Repo](https://github.com/SaragamG/Dungeons-and-Dragons.git)
-
-Text based variation of the game Dungeons and Dragons. Utilizing six different classes in order to update player health, game progress, etc, you must find a way to pass through all five levels by finding the key to each room.
+ContactMi is a platform focusing on contact information sharing for users to connect and build online
+relationships.
+• Developed an interactive web application using EJS for user profiles, search engine, and the ability to connect.
+• Utilized PostgreSQL for efficient storage and retrieval of user profiles and contact details.
+• Implemented containerization using Docker for streamlined deployment and consistent application behavior.
+• Designed and implemented secure registration routes for user sign-up through API integration using Postman
+• Collaborated effectively within the team using Git and Teams to manage deadlines and track code progress while resolving merge conflicts.
